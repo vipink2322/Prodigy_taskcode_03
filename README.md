@@ -1,2 +1,1 @@
-# Prodigy_taskcode_03
-Password complexity checker
+# PRODIGY_CS_TASK3
